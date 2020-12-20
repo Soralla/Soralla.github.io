@@ -113,7 +113,6 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
 #title {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 36px;
-  letter-spacing: 0px, 42px;
   position: absolute;
   display: inline; }
 
@@ -147,8 +146,7 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
   position: absolute;
   display: block;
   font-family: "IBM Plex Mono", monospace;
-  font-size: 14px;
-  letter-spacing: 0px, 22px; }
+  font-size: 14px; }
 
 .portalmob {
   width: 288px;
@@ -202,7 +200,6 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
   top: 2%;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 36px;
-  letter-spacing: 0px, 42px;
   color: #FFFFFF; }
 
 .pods {
@@ -234,7 +231,7 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
 
 .phonetit {
   width: 288px;
-  height: 84;
+  height: 84px;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 36px;
   margin-left: 7%;
@@ -242,7 +239,7 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
 
 .phonepar {
   width: 288px;
-  height: 254;
+  height: 254px;
   font-family: "IBM Plex Mono", monospace;
   font-size: 14px;
   margin-left: 7%;
@@ -342,7 +339,6 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
   text-align: center;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 36px;
-  letter-spacing: 0px, 42px;
   color: #FFFFFF; }
 
 .butnov {
@@ -376,7 +372,6 @@ header nav .menu input:checked ~ span:nth-last-child(2) {
   position: absolute;
   font-family: "IBM Plex Mono", monospace;
   font-size: 14px;
-  letter-spacing: 0px, 22px;
   transform: translate(20%, 3100px); }
 
 .footlog {
@@ -428,15 +423,6 @@ a {
     height: 36px; }
 
   /* Container 1 y 2 title, paragraph and button desktop*/
-  /*#container1 {
-      width: 100%;
-      height: 80px;
-      top: 0;
-  }*/
-  .menudesk {
-    display: flex;
-    flex: end; }
-
   #container2 {
     width: 100%;
     margin-left: 10%;
